@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78714ea2-2cee-4b34-88f8-801de81bdc0c" name="Default Changelist" comment="- updated UI exercise timeline page and main exercise page" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_29]" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dirol90 &lt;dirol90@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1c8lp1ZVtFzXM0c1YmvylhgpRYi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/ios/Runner" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Work Appromo\FlutterProjects\Fit24_REPOSITORY_19052020\assets\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78714ea2-2cee-4b34-88f8-801de81bdc0c" name="Default Changelist" comment="" />
+      <created>1589918280051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589918280051</updated>
+    </task>
+    <task id="LOCAL-00001" summary="- adding test widget for showing full exercises list&#10;- fix sorting of exercises&#10;- change app name&#10;- some changes according to excel file">
+      <created>1589924173213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589924173214</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- fix restart crash on test version of android app&#10;- fix sorting of exercises">
+      <created>1590107946748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590107946749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- fixed in app db &#10;- fixes according to google doc">
+      <created>1590362559742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590362559742</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- android app crash in release fix&#10;- splash logo size change&#10;- androidX added">
+      <created>1590401826362</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590401826362</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- training missing id fixed&#10;- exercise close dialog fixed when user between warm up block and main mart || main part and cooldown">
+      <created>1590419427240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590419427240</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- pre release fixes">
+      <created>1590946361765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590946361765</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- pre release fixes">
+      <created>1591555950089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591555950089</updated>
+    </task>
+    <task id="LOCAL-00008" summary="- fix">
+      <created>1591558098929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591558098929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- updated UI exercise timeline page and main exercise page">
+      <created>1593426973819</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593426973819</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="- adding test widget for showing full exercises list&#10;- fix sorting of exercises&#10;- change app name&#10;- some changes according to excel file" />
+    <MESSAGE value="- fix restart crash on test version of android app&#10;- fix sorting of exercises" />
+    <MESSAGE value="- fixed in app db &#10;- fixes according to google doc" />
+    <MESSAGE value="- android app crash in release fix&#10;- splash logo size change&#10;- androidX added" />
+    <MESSAGE value="- training missing id fixed&#10;- exercise close dialog fixed when user between warm up block and main mart || main part and cooldown" />
+    <MESSAGE value="- pre release fixes" />
+    <MESSAGE value="- fix" />
+    <MESSAGE value="- updated UI exercise timeline page and main exercise page" />
+    <option name="LAST_COMMIT_MESSAGE" value="- updated UI exercise timeline page and main exercise page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1044" y="421" key="#Notifications" timestamp="1620721527836">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1044" y="421" key="#Notifications/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620721527836" />
+    <state x="-1820" y="123" width="1720" height="857" key="AVDManager" timestamp="1620769750199">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1820" y="123" width="1720" height="857" key="AVDManager/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620769750199" />
+    <state x="-1424" y="147" key="CommitChangelistDialog2" timestamp="1620769956358">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1424" y="147" key="CommitChangelistDialog2/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620769956358" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1620770844437">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620770844437" />
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom/-1920.23.1920.989/0.23.1920.1057@-1920.23.1920.989" timestamp="1617053409619" />
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom/-1920.23.1920.991/0.23.1920.1057@-1920.23.1920.991" timestamp="1617050838126" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1620770844436">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.center/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620770844436" />
+    <state width="1878" height="267" key="GridCell.Tab.0.center/-1920.23.1920.989/0.23.1920.1057@-1920.23.1920.989" timestamp="1617053409619" />
+    <state width="1878" height="267" key="GridCell.Tab.0.center/-1920.23.1920.991/0.23.1920.1057@-1920.23.1920.991" timestamp="1617050838126" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1620770844436">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.left/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620770844436" />
+    <state width="1878" height="267" key="GridCell.Tab.0.left/-1920.23.1920.989/0.23.1920.1057@-1920.23.1920.989" timestamp="1617053409607" />
+    <state width="1878" height="267" key="GridCell.Tab.0.left/-1920.23.1920.991/0.23.1920.1057@-1920.23.1920.991" timestamp="1617050838125" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1620770844437">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.right/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620770844437" />
+    <state width="1878" height="267" key="GridCell.Tab.0.right/-1920.23.1920.989/0.23.1920.1057@-1920.23.1920.989" timestamp="1617053409619" />
+    <state width="1878" height="267" key="GridCell.Tab.0.right/-1920.23.1920.991/0.23.1920.1057@-1920.23.1920.991" timestamp="1617050838126" />
+    <state x="-1454" y="165" key="SettingsEditor" timestamp="1620770968166">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1454" y="165" key="SettingsEditor/-1920.23.1920.1057/-3200.23.1280.1001/0.23.1920.988@-1920.23.1920.1057" timestamp="1620770968166" />
+    <state x="-1454" y="156" key="SettingsEditor/-1920.23.1920.989/0.23.1920.1057@-1920.23.1920.989" timestamp="1617052632053" />
+    <state x="-1268" y="271" width="615" height="490" key="find.popup" timestamp="1617052876990">
+      <screen x="-1920" y="23" width="1920" height="989" />
+    </state>
+    <state x="-1268" y="271" width="615" height="490" key="find.popup/-1920.23.1920.989/0.23.1920.1057@-1920.23.1920.989" timestamp="1617052876990" />
+    <state x="-1268" y="272" width="615" height="490" key="find.popup/-1920.23.1920.991/0.23.1920.1057@-1920.23.1920.991" timestamp="1617050771468" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/model/static_trainings_list.dart</url>
+          <line>87</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

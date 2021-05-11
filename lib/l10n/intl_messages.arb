@@ -1,0 +1,54 @@
+
+{
+  "@@last_modified": "2020-01-09T17:03:48.865264",
+  "name": "Name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setName": "Enter your name",
+  "@setName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "woman": "Female",
+  "@woman": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "man": "Male",
+  "@man": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bd": "Date of birth",
+  "@bd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "weight": "Weight",
+  "@weight": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "height": "Height",
+  "@height": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kg": "kg",
+  "@kg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lb": "lb",
+  "@lb": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cm": "cm",
+  "@cm": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
